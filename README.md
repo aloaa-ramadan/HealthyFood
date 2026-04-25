@@ -48,7 +48,7 @@ The design focuses on simplicity, clarity, and smooth user experience.
 
 - 🎨 Figma Design: [https://www.figma.com/design/nnMLVbTP757gxxalYymK2L?node-id=0-1]
 - 🎥 video to see interactivity:
-- [https://drive.google.com/file/d/1EU5FzF_mOYQISUEUN8ol3qm94Ls4oZTH/view?usp=drivesdk]
+- [https://drive.google.com/file/d/1Zy03dfU2JjfWPDFUpkYp3ep9-nsSbdAA/view?usp=drivesdk]
 
 ---
 
