@@ -1,8 +1,8 @@
-🥗 Eat Healthy - Food App UI
+##🥗 Eat Healthy - Food App UI
 
 📌 Overview
 
-Eat Healthy is a mobile UI design created using Figma that helps users explore and choose healthy food بسهولة.
+Eat Healthy is a mobile UI design created using Figma that helps users explore and choose healthy food in easy way.
 
 The design focuses on simplicity, clarity, and smooth user experience.
 
